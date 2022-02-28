@@ -54,6 +54,10 @@ body {
 .thumbnail {
 
     width: 100%;
+    padding-top: 62.5%;
+    height: 0;
+    overflow: hidden;
+    background-size: contain;
 
 }
 
@@ -101,3 +105,39 @@ body {
 .title1{
     color:white;
 }
+
+.img1 {
+    background-image: url(https://picsum.photos/800/500?random=1);
+  }
+
+  .img2 {
+    background-image: url(https://picsum.photos/800/500?random=2);
+  }
+
+  .img3 {
+    background-image: url(https://picsum.photos/800/500?random=3);
+  }
+
+  .img4 {
+    background-image: url(https://picsum.photos/800/500?random=4);
+  }
+
+  .img5 {
+    background-image: url(https://picsum.photos/800/500?random=5);
+  }
+
+  .img6 {
+    background-image: url(https://picsum.photos/800/500?random=6);
+  }
+
+  .img7 {
+    background-image: url(https://picsum.photos/800/500?random=7);
+  }
+
+  .img8 {
+    background-image: url(https://picsum.photos/800/500?random=8);
+  }
+
+  .img9 {
+    background-image: url(https://picsum.photos/800/500?random=9);
+  }
